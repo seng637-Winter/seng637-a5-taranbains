@@ -15,7 +15,7 @@
 
 # Assessment Using Reliability Growth Testing 
 
-## Reliability
+### Reliability
 
 The laplace test helps provide a method for assessing the effectiveness of reliability improvement over time. In reliability growth testing, the goal is to identify and correct failures early in the development process to enhance the reliability of the product or system.
 
@@ -26,7 +26,7 @@ By comparing the actual failure data to the expected failure distribution based 
 As expected, we can see the decreased reliability at the beginning and then the slow decrease does indicate some reliability growth. 
 
 
-## Failure Rate
+### Failure Rate
 
 Below plots the failure rate for the given test data.
 
